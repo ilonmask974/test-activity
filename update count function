@@ -1,0 +1,4 @@
+function updateTaskCount() {
+  const count = document.querySelectorAll("#taskList li").length;
+  document.getElementById("taskCount").textContent = "Tasks: " + count;
+}

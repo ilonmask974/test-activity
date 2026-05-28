@@ -1,0 +1,2 @@
+deleteButton.onclick li.remove():
+updateTaskCount();

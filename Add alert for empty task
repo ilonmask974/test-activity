@@ -1,0 +1,7 @@
+if (taskText === "") {
+  return;
+}
+
+if (taskText === "") {
+  alert("Please enter a task");
+  return;

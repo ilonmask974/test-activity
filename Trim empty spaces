@@ -1,0 +1,2 @@
+const taskText = input.value;
+const taskText = input.value.trim();

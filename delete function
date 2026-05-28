@@ -1,0 +1,3 @@
+deleteButton.onclick = function() {
+  li.remove();
+};

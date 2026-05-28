@@ -1,0 +1,4 @@
+function clearTasks() {
+  document.getElementById("taskList").innerHTML = "";
+  updateTaskCount();
+}
